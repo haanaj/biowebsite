@@ -11,7 +11,7 @@ Welcome to our site and homepage! Curious about the site setup? Check out the mi
 |[Meet The Team](/biowebsite/team/)|Want to check out our team? Click on the link to see headshots of all our members and our interviewee.|
 |[Video](/biowebsite/video/)|Check out the main part of our project here - our interview video!|
 |[Transcript](/biowebsite/transcript/)|A PDF of everything said - aka our video transcript - is available on this page.|
-|[Background Info](/biowebsite/background/)|To learn more about Markus Hodge, check out this page.|
+|[Background Info](/biowebsite/background/)|To learn more about Markus Hogue, check out this page.|
 |[Resources](/biowebsite/resources/)|To learn more about Mr. Hodge's profession, other pathways, and about water conservation + irrigation, we've provided you with links to external sites.|
 
 <center>Enjoy and Hook 'Em!</center>
