@@ -16,5 +16,10 @@ Welcome to our site and homepage! Curious about the site setup? Check out the mi
 
 <center>Enjoy and Hook 'Em!</center>
 
-<img src = "/biowebsite/assets/UT.jpg" id = "UT Tower" style = "display: block; margin: 0 auto;">
+<p align="center">
+  <img src="/biowebsite/assets/UT.JPG">
+</p>
+
+<!--<img src = "/biowebsite/assets/UT.jpg" id = "UT Tower" style = "display: block; margin: 0 auto;">-->
+
 <center><font size = "2">Photo Courtesy of Haana Janmohamed </font></center>
