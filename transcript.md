@@ -5,4 +5,4 @@ permalink: /transcript/
 weight: 3
 ---
 
-[Insert PDF of transcript]
+If the document is not showing up, click [here](/biowebsite/assets/transcript.pdg).

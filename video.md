@@ -5,4 +5,4 @@ permalink: /video/
 weight: 2
 ---
 
-[insert interview video]
+If the video isn't showing up, click [here](youtube link).
