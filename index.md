@@ -14,4 +14,7 @@ Welcome to our site and homepage! Curious about the site setup? Check out the mi
 |[Background Info](/biowebsite/background/)|To learn more about Markus Hodge, check out this page.|
 |[Resources](/biowebsite/resources/)|To learn more about Mr. Hodge's profession, other pathways, and about water conservation + irrigation, we've provided you with links to external sites.|
 
-Enjoy and Hook 'Em!
+<center>Enjoy and Hook 'Em!</center>
+
+<img id = "UT Tower" src = "/biowebsite/assets/UT.jpg" style = "display: block; margin: 0 auto;">
+<center><font size = "2">Photo Courtesy of Haana Janmohamed </font></center>
