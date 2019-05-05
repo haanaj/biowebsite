@@ -15,7 +15,7 @@ weight: 1
 
 <p style="clear: both;">
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/biowebsite/assets/Krishna_Jani.JPG" style="width: 100%">Krishna Jani</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/biowebsite/assets/Krishna_Jani.jpg" style="width: 100%">Krishna Jani</p>
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/biowebsite/assets/Haana_Janmohamed.jpg" style="width: 100%">Haana Janmohamed</p>
 
